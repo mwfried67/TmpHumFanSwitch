@@ -38,7 +38,7 @@ int z_table[NUM_Y][NUM_X] = {//Fan on or off eventually
   {0,  1,  1,  1,  1,  1},//80% RH
   {0,  1,  1,  1,  1,  1},//85% RH
   {0,  1,  1,  1,  1,  1},//90% RH
-  {0,  0,  1,  0,  0,  0}//95% RH
+  {0,  0,  0,  0,  0,  0}//95% RH
   };
 
 // Global variables to hold data
